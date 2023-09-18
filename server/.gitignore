@@ -1,0 +1,4 @@
+# Project
+.pio/
+.vscode/
+include/wifi_secrets.h
